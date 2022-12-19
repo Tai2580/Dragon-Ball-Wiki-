@@ -1,4 +1,7 @@
 body {
-    heigh:675px;
     background-image: url(fondopaginaweb.jpg);
-  }
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: floralwhite;
+  } 
